@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="npm-start-not-working">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/npm-start-not-working.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
